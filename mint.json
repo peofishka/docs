@@ -89,15 +89,13 @@
     {
       "group": "10101 Ecosystem",
       "pages": [
-        "url": "https://10101.art",
-        "url": "https://10101.xyz",
-        "url": "https://10101.agency"
+        "url: "https://www.npmjs.com/package/mintlify"
       ]
     },
     {
       "group": "Getting Help",
-      "pages": [
-        "url": "https://t.me/gallery10101"
+      "title": [
+        "url: "https://t.me/gallery10101"
       ]
     }
   ],
