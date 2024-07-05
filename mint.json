@@ -46,7 +46,56 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Incentive Programs",
+      "pages": [
+        "amba",
+        "bounty"
+      ]
+    },
+    {
+      "group": "Guides & Education",
+      "pages": [
+
+      ]
+    },
+    {
+      "group": "Legal Reference",
+      "pages": [
+        "scheme",
+        "disclaimer",
+        "privacy",
+        "terms",
+        "own",
+        "sale",
+        "cookie"
+      ]
+    }, 
+    {
+      "group": "Technical Reference",
+      "pages": [
+        "ca",
+        "api",
+        "audits",
+        "guides",
+        "own",
+        "sale",
+        "cookie"
+      ]
+    },
+    {
+      "group": "FAQ",
+      "pages": [
+
+      ]
+    },
+    {
+      "group": "10101 Ecosystem",
+      "pages": [
+        "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "Getting Help",
       "pages": [
         "api-reference/introduction"
       ]
