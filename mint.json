@@ -29,9 +29,20 @@
     {
       "group": "Get Started",
       "pages": [
-        "development",
-        "quickstart",
-        "introduction"
+        "reg",
+        "accman",
+        "buying",
+        "selling"
+      ]
+    },
+    {
+      "group": "Platform Features",
+      "pages": [
+        "token",
+        "roadmap",
+        "links",
+        "assets",
+        "whitepaper"
       ]
     },
     {
