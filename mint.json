@@ -87,16 +87,12 @@
       ]
     },
     {
-      "group": "10101 Ecosystem",
-      "pages": [
-        "url: "https://www.npmjs.com/package/mintlify"
-      ]
+        "name": "10101 Ecosystem",
+        "url": "10101.art"
     },
     {
-      "group": "Getting Help",
-      "title": [
-        "url: "https://t.me/gallery10101"
-      ]
+        "name": "Getting Help",
+        "url": "https://www.t.me/gallery10101"
     }
   ],
   "footerSocials": {
