@@ -89,15 +89,15 @@
     {
       "group": "10101 Ecosystem",
       "pages": [
-        "https://10101.art",
-        "https://10101.xyz",
-        "https://10101.agency"
+        "url": "https://10101.art",
+        "url": "https://10101.xyz",
+        "url": "https://10101.agency"
       ]
     },
     {
       "group": "Getting Help",
       "pages": [
-        "https://t.me/gallery10101"
+        "url": "https://t.me/gallery10101"
       ]
     }
   ],
