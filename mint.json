@@ -27,6 +27,12 @@
   },
   "navigation": [
     {
+      "group": "Welcome to 10101.art",
+      "pages": [
+        "getting"
+      ]
+    },
+    {
       "group": "Get Started",
       "pages": [
         "reg",
