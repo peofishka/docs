@@ -7,9 +7,9 @@
   },
   "favicon": "https://10101.art/images/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#bf6c27",
+    "light": "#F29E38",
+    "dark": "#F29E38",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
