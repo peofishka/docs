@@ -39,19 +39,13 @@
       "pages": [
         "api-reference/introduction"
       ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/10101_art",
+    "linkedin": "https://www.linkedin.com/company/10101.art",
+    "instagram": "https://www.instagram.com/10101.art",
+    "telegram": "https://www.t.me/gallery10101"
+
   }
 }
