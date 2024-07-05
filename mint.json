@@ -79,6 +79,24 @@
         "audits",
         "guides"
       ]
+    },
+    {
+      "group": "FAQ",
+      "pages": [
+
+      ]
+    },
+    {
+      "group": "10101 Ecosystem",
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "group": "Getting Help",
+      "pages": [
+        ""
+      ]
     }
   ],
   "footerSocials": {
