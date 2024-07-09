@@ -41,8 +41,8 @@
     {
       "group": "First Steps",
       "pages": [
-        "reg",
-        "accman"
+        "PlatformIntroduction",
+        "AccountManagement"
       ]
     },
     {
