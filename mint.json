@@ -36,7 +36,7 @@
       "group": "Art Corner",
       "pages": [
         "ManagingPhysicalArtworks",
-        "collection"
+        "Collection"
       ]
     },
     {
@@ -45,23 +45,23 @@
         "PlatformIntroduction",
         "AccountManagement",
         "Marketplace",        
-        "roadmap",
-        "links",
+        "Roadmap",
+        "Links",
         "BrandAssets",
-        "whitepaper"
+        "Whitepaper"
       ]
     },
     {
       "group": "For Sellers",
       "pages": [
-        "forsellers"
+        "ForSellers"
       ]
     },
     {
       "group": "Incentive Programs",
       "pages": [
-        "amba",
-        "bounty"
+        "AmbassadorProgram",
+        "BugBountyProgram"
       ]
     },
     {
@@ -73,7 +73,7 @@
     {
       "group": "Legal Reference",
       "pages": [
-        "scheme"
+        "Scheme"
       ]
     }, 
     {
