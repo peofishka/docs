@@ -27,28 +27,38 @@
   },
   "navigation": [
     {
-      "group": "Overview",
+      "group": "Getting Started",
       "pages": [
         "getting"
       ]
     },
     {
-      "group": "Get Started",
+      "group": "Art",
       "pages": [
-        "reg",
-        "accman",
-        "buying",
-        "selling"
+        "art"
       ]
     },
     {
-      "group": "Platform Features",
+      "group": "First Steps",
       "pages": [
-        "token",
+        "reg",
+        "accman"
+      ]
+    },
+    {
+      "group": "About the platform",
+      "pages": [
+        "Marketplace",        
         "roadmap",
         "links",
-        "assets",
+        "BrandAssets",
         "whitepaper"
+      ]
+    },
+    {
+      "group": "For sellers",
+      "pages": [
+        "forsellers"
       ]
     },
     {
