@@ -40,15 +40,10 @@
       ]
     },
     {
-      "group": "First Steps",
-      "pages": [
-        "PlatformIntroduction",
-        "AccountManagement"
-      ]
-    },
-    {
       "group": "About the platform",
       "pages": [
+        "PlatformIntroduction",
+        "AccountManagement",
         "Marketplace",        
         "roadmap",
         "links",
