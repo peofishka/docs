@@ -33,14 +33,14 @@
       ]
     },
     {
-      "group": "Art corner",
+      "group": "Art Corner",
       "pages": [
         "ManagingPhysicalArtworks",
         "collection"
       ]
     },
     {
-      "group": "About the platform",
+      "group": "About the Platform",
       "pages": [
         "PlatformIntroduction",
         "AccountManagement",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "group": "For sellers",
+      "group": "For Sellers",
       "pages": [
         "forsellers"
       ]
