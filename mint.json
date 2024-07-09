@@ -35,7 +35,8 @@
     {
       "group": "Art",
       "pages": [
-        "art"
+        "ManagingPhysicalArtworks",
+        "collection"
       ]
     },
     {
