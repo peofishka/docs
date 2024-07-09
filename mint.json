@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "10101.art Docs",
   "logo": {
-    "dark": "https://10101.art/images/logo-beta.svg",
+    "dark": "https://10101.art/images/logo-beta-white.svg",
     "light": "https://10101.art/images/logo-beta.svg"
   },
   "favicon": "favicon.svg",
