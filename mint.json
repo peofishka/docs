@@ -29,11 +29,11 @@
     {
       "group": "Getting Started",
       "pages": [
-        "getting"
+        "/"
       ]
     },
     {
-      "group": "Art",
+      "group": "Art corner",
       "pages": [
         "ManagingPhysicalArtworks",
         "collection"
