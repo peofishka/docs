@@ -33,8 +33,9 @@
       ]
     },
     {
-      "group": "Artwork Management",
+      "group": "About the Gallery",
       "pages": [
+        "MonadaArt",
         "ManagingPhysicalArtworks",
         "Collection"
       ]
