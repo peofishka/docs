@@ -44,8 +44,7 @@
     {
       "group": "About the Platform",
       "pages": [
-        "Introduction",
-        "AccountManagement",
+        "AccountSetup",
         "Marketplace",        
         "Roadmap",
         "Links",
